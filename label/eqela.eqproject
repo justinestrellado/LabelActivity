@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Label
+#
+
+projectname: Label
+vendorid: com.justinestrellado.example
+mainmodule: com.justinestrellado.example.label
